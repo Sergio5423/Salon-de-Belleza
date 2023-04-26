@@ -1,0 +1,9 @@
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\Logica\bin\Debug\Logica.dll
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\Logica\bin\Debug\Logica.pdb
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\Logica\bin\Debug\Entidades.dll
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\Logica\bin\Debug\Entidades.pdb
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\Logica\obj\Debug\Logica.dll
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\Logica\obj\Debug\Logica.pdb

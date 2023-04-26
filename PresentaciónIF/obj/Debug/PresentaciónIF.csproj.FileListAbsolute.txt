@@ -1,0 +1,34 @@
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\bin\Debug\PresentaciónIF.exe.config
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\bin\Debug\PresentaciónIF.exe
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\bin\Debug\PresentaciónIF.pdb
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\obj\Debug\PresentaciónIF.csproj.AssemblyReference.cache
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\obj\Debug\PresentaciónIF.csproj.SuggestedBindingRedirects.cache
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\obj\Debug\PresentaciónIF.Properties.Resources.resources
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\obj\Debug\PresentaciónIF.csproj.GenerateResource.cache
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\obj\Debug\PresentaciónIF.csproj.CoreCompileInputs.cache
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\obj\Debug\PresentaciónIF.exe
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\obj\Debug\PresentaciónIF.pdb
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\bin\Debug\Entidades.dll
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\bin\Debug\Logica.dll
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\bin\Debug\Entidades.pdb
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\bin\Debug\Logica.pdb
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\obj\Debug\PresentaciónIF.Principal.resources
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\obj\Debug\PresentaciónIF.csproj.CopyComplete
+C:\Users\starr\OneDrive\Documentos Onedrive\Yo\Universidad\4to Semestre\Programación III\Proyecto\Proyecto C#\Salon de Belleza v1.0.0\PresentaciónIF\obj\Debug\PresentaciónIF.Confirmacion.resources
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\obj\Debug\PresentaciónIF.csproj.AssemblyReference.cache
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\obj\Debug\PresentaciónIF.csproj.SuggestedBindingRedirects.cache
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\obj\Debug\PresentaciónIF.Confirmacion.resources
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\obj\Debug\PresentaciónIF.Principal.resources
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\obj\Debug\PresentaciónIF.Properties.Resources.resources
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\obj\Debug\PresentaciónIF.csproj.GenerateResource.cache
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\obj\Debug\PresentaciónIF.csproj.CoreCompileInputs.cache
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\obj\Debug\PresentaciónIF.exe
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\obj\Debug\PresentaciónIF.pdb
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\bin\Debug\PresentaciónIF.exe.config
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\bin\Debug\PresentaciónIF.exe
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\bin\Debug\PresentaciónIF.pdb
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\bin\Debug\Entidades.dll
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\bin\Debug\Logica.dll
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\bin\Debug\Entidades.pdb
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\bin\Debug\Logica.pdb
+C:\Users\starr\Escritorio\Salon de Belleza\PresentaciónIF\obj\Debug\PresentaciónIF.csproj.CopyComplete
